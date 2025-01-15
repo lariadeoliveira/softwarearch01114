@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4TEyoO0OeXfm0volqhAp-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="269" y="200" width="290" height="230" as="geometry" />
+          <mxGeometry x="260" y="195" width="290" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4TEyoO0OeXfm0volqhAp-2" value="PORTAL DO CINEMA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="366" y="440" width="96" height="30" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="270" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4TEyoO0OeXfm0volqhAp-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="559" y="230" width="91" height="130" as="geometry" />
+          <mxGeometry x="590" y="260" width="91" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
