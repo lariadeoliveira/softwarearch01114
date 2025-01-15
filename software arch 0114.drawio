@@ -16,6 +16,12 @@
         <mxCell id="4TEyoO0OeXfm0volqhAp-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="729" y="312.7" width="150" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="4TEyoO0OeXfm0volqhAp-8" value="Visitante" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="326" y="506" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4TEyoO0OeXfm0volqhAp-10" value="User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="780" y="506" width="76" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
