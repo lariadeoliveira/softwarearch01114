@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Página-1" id="U8x9v5WI5g8i2qzaIiDe">
-    <mxGraphModel dx="877" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4TEyoO0OeXfm0volqhAp-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="230" y="195" width="290" height="230" as="geometry" />
+          <mxGeometry x="439" y="276" width="290" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4TEyoO0OeXfm0volqhAp-2" value="PORTAL DO CINEMA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="366" y="440" width="96" height="30" as="geometry" />
+          <mxGeometry x="575" y="521" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4TEyoO0OeXfm0volqhAp-3" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="270" width="107" height="95.13" as="geometry" />
+          <mxGeometry x="289" y="351" width="150" height="133.39" as="geometry" />
         </mxCell>
-        <mxCell id="4TEyoO0OeXfm0volqhAp-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="590" y="260" width="91" height="130" as="geometry" />
+        <mxCell id="4TEyoO0OeXfm0volqhAp-4" value="" style="image;html=1;image=img/lib/clip_art/people/Construction_Worker_Man_Black_128x128.png;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="729" y="312.7" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
