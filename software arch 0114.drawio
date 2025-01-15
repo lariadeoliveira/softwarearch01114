@@ -7,8 +7,8 @@
         <mxCell id="4TEyoO0OeXfm0volqhAp-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Secure_System_128x128.png;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="439" y="276" width="290" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="4TEyoO0OeXfm0volqhAp-2" value="PORTAL DO CINEMA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="521" width="96" height="30" as="geometry" />
+        <mxCell id="4TEyoO0OeXfm0volqhAp-2" value="PORTAL DO CINEMA" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="510" y="521" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4TEyoO0OeXfm0volqhAp-3" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="289" y="351" width="150" height="133.39" as="geometry" />
